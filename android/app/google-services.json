@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1013652065984",
+    "firebase_url": "https://lojaflutter-cadf5.firebaseio.com",
+    "project_id": "lojaflutter-cadf5",
+    "storage_bucket": "lojaflutter-cadf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013652065984:android:14cfbc6488420a14492725",
+        "android_client_info": {
+          "package_name": "br.com.tura.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013652065984-pv7isg3dq09dcbc3ih5lu2m1fad34hja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9zTo-pQLSU28dUvYor2zBEVkAyZI01s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013652065984-pv7isg3dq09dcbc3ih5lu2m1fad34hja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
