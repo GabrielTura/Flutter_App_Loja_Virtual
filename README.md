@@ -1,6 +1,12 @@
-# loja_virtual
+# Loja Virtual
 
 Criação do App - Loja Virtual com Flutter e APIs.
+
+APIs utilizadas "Firebase Database /// Firebase Auth".
+
+Sistema de Listagem de Produtos em Modo Grid e List - Concluido.
+Sistema de Login, Registro e Esqueci Senha - Concluido.
+Sistema de Carrinho de Compra - Em Desenvolvimento.
 
 ## Getting Started
 
